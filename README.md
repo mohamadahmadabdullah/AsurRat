@@ -22,4 +22,5 @@
 - auto start after device boot
 - Smooth connection client to Bot
 - Location
+- add screenshot
 - more feature coming soon
