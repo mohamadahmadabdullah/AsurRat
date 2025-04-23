@@ -23,4 +23,5 @@
 - Smooth connection client to Bot
 - Location
 - add screenshot
+- add all sms export
 - more feature coming soon
